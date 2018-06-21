@@ -1,6 +1,6 @@
 # New Site Template
 
-[TODO. There will be project description]
+HTML page template for working offline. Both .js and .css files are included.
 
 # Project Goals
 
